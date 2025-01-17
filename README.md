@@ -29,3 +29,5 @@ FPDF : It formats and generates the PDF report.
 MATPLOTLIB : Matplotlib is a plotting library used for creating static, interactive, and animated visualizations in Python. It allows users to generate a wide variety of charts and graphs to visualize data insights effectively.
 
 OS module : Manages temporary file handling (e.g., deleting the chart after it's added to the report).
+
+![task4](https://github.com/user-attachments/assets/f2fd4a6f-7612-4457-b7c5-aee314a60065)
